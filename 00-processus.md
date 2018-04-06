@@ -19,8 +19,11 @@ Voici quelques points qui seront couverts:
 - Maintenance
 - Méthodes de travail "agiles"
 - Tarification, estimer un projet
+- Retrospectives
 
+***
 
+> "It’s important to build a practice. Without a practice, you’re just *doing* design — a short-term activity. But when you *practice* design, you’re focusing on long-term sustainable success." - [Verne Ho, 2013](https://ux.shopify.com/a-framework-for-building-a-design-practice-c0a3df667344)
 
 ***
 
