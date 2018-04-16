@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Processus
-permalink: /divers/processus/
+title: Ressources
+permalink: /processus/ressources/
 ---
 
 # Processus de design
@@ -96,3 +96,7 @@ Exemple de Style Guide produit avec KSS: [WordCamp Style Guide](https://lucijanb
 > I think it’s safe to say a Pattern Library isn’t necessary for every project. But if your site, application, or network of content suffers from style collisions, repeated code, and lack of cohesive UX then a Pattern Library is probably a helpful tool to have. – Dave Rupert, [What I Know About Pattern Libraries](https://daverupert.com/2017/06/what-i-know-about-pattern-libraries/)
 
 ### Pattern Lab
+
+## Hygiène de travail
+
+- [Practical Advice for the Confused Designer](http://pierrickcalvez.com/journal/practical-advice-for-the-confused-designer), par Pierrick Calvez
