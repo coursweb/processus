@@ -1,35 +1,19 @@
 ---
 layout: page
-title: Processus
-permalink: /processus/
+title: Phases
+permalink: /processus/phases/
 ---
 
-> Avertissement: ce chapitre est en chantier!
+# Les phases d'un projet
 
-Ce chapitre apporte quelques informations sur les processus de développement web.
-
-Voici quelques points qui seront couverts:
-
-- Les phases d'un projet de conception web
-- Recherche, documentation, brainstorming
-- Recherche UX, personas, story cards
-- Wireframes, architecture de l'information
-- Prototypage, maquette visuelle
-- Développement
-- Maintenance
-- Méthodes de travail "agiles"
-- Tarification, estimer un projet
-- Retrospectives
+Quelques exemples:
 
 ***
 
-> "It’s important to build a practice. Without a practice, you’re just *doing* design — a short-term activity. But when you *practice* design, you’re focusing on long-term sustainable success." - [Verne Ho, 2013](https://ux.shopify.com/a-framework-for-building-a-design-practice-c0a3df667344)
+## Brief / Rearch / Ideas / Solution / Production 
 
-***
-
-Mark Boulton, Designing for the Web
-
-http://www.designingfortheweb.co.uk/part2/part2_chapter6.php
+Mark Boulton, Designing for the Web  
+Chapter six: [The design process](http://www.designingfortheweb.co.uk/part2/part2_chapter6.php)
 
 The Traditional Design Process : 
 
@@ -47,18 +31,44 @@ The Web Design Process:
 4. Solution
 5. Production
 
+> The important thing to take away from this chapter is there is no right way to designing a website. Try different methods and find what suits you and the project. - Mark Boulton
+
+## Start / Plan / Build / Test / Close
+
+Processus décrit par Virginia DeBolt, dans "Interact with web standards":
+
+* Start - define project requirements
+* Plan - research and analysis, draft design options and select design
+* Build - produce the design
+* Test - quality assurance testing
+* Close - deploy, maintain
+
+
+
+## Processus IDEO : "Human Centered Design"
+
+* Phase 1: Observation
+* Phase 2: Ideation
+* Phase 3: Rapid Prototyping
+* Phase 4: User Feedback
+* Phase 5: Iteration
+* Phase 6: Implementation
+
 ***
 
-https://www.smashingmagazine.com/2011/06/following-a-web-design-process/
+Luke Reimer: [Following A Web Design Process](https://www.smashingmagazine.com/2011/06/following-a-web-design-process/), Smashing Magazine, 2011
+
+1. PLANNING (Requirements analysis, Site map, Contracts...)
+2. DESIGN (Wireframe, Mock-ups...)
+3. DEVELOPMENT
+4. LAUNCH (Polishing, Transfer to live server, Testing, Final cross-browser check)
+5. POST-LAUNCH (Hand off to client, documentation...)
 
 ***
 
-https://webflow.com/blog/the-web-design-process-in-7-simple-steps
+Matt Meazey : [The web design process in 7 simple steps](https://webflow.com/blog/the-web-design-process-in-7-simple-steps), Webflow, 2017
 
-par MATT MEAZEY
-MARCH 13, 2017
-
-"Web designers often think about the web design process with a focus on technical matters such as wireframes, code, and content management. But great design isn’t about how you integrate the social media buttons or even slick visuals. Great design is actually about creating a website that aligns with an overarching strategy."
+> "Web designers often think about the web design process with a focus on technical matters such as wireframes, code, and content management. But great design isn’t about how you integrate the social media buttons or even slick visuals. Great design is actually about creating a website that aligns with an overarching strategy."
 
 1. Goal identification (the most important part of any web design process)
 2. Scope definition (contract, gantt chart)
