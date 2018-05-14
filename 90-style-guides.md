@@ -57,17 +57,17 @@ http://v3.danielmall.com/articles/visual-inventory/
 
 ## Le mouvement des "design systems"
 
-Les préocuppations du web design étaient vers 2010 étaient focalisées sur les principe du Responsive Web Design et du "Mobile First". On constate que dès 2015, parmi les sujets les plus discutés figurent les "Styles Guides" et "Design Systems".
+Les préoccupations du web design vers 2010 étaient focalisées sur les principes du "[Responsive Web Design](https://cours-web.ch/css/responsive)" et du "Mobile First". On constate que dès 2015, parmi les sujets les plus discutés figurent les "Styles Guides" et "Design Systems".
 
-Quelques-unes des étapes importantes dans ce domaine:
+Quelques étapes-clé dans cette évolution du discours:
 
-- en fin 2014, Brad Frost [annonce](http://bradfrost.com/blog/post/styleguides-io/) le lancement de styleguides.io. Ce site collecte quelques 200 exemples de "style guides" de compagnies publiés sur le web, et héberge le Style Guide Podcast.
-- en 2015, Brad Frost [annonce](http://bradfrost.com/blog/post/atomic-design-book/) son projet de livre "Atomic Design".
-- en mars 2016, la première conférence [Clarity Conf](https://www.clarityconf.com/2016) ("a conference about style guides and design systems") se tient à San Francisco. Parmi les orateurs, Brad Frost, des gens de Salesforce, Dropbox, GitHub, Slack...
-- en avril 2016, les designers d'Airbnb publient [plusieurs](https://airbnb.design/the-way-we-build/) [articles](https://airbnb.design/building-a-visual-language/) sur la refonte de leur "Design Language System".
-- novembre 2016: sortie du livre "Atomic Design", auto-publié par Brad Frost.
-- octobre 2017: sortie du livre "[Design Systems](https://www.smashingmagazine.com/design-systems-book/)", par Alla Kholmatova, publié par Smashing Books. 
-- en mars 2018, la première [Design Systems Conference](https://dsconference.com/) a lieu à Helsinki. Parmi les conférenciers, des designers de chez IBM, Airbnb...
+- Fin 2014, Brad Frost [annonce](http://bradfrost.com/blog/post/styleguides-io/) le lancement de [styleguides.io](http://styleguides.io/). Ce site collecte quelques 200 exemples de "style guides" de compagnies publiés sur le web, et héberge le Style Guide Podcast.
+- En 2015, Brad Frost [annonce](http://bradfrost.com/blog/post/atomic-design-book/) son projet de livre "Atomic Design".
+- En mars 2016, la première conférence [Clarity Conf](https://www.clarityconf.com/2016) ("a conference about style guides and design systems") se tient à San Francisco. Parmi les orateurs, Brad Frost, des gens de Salesforce, Dropbox, GitHub, Slack...
+- En avril 2016, les designers d'Airbnb publient [plusieurs](https://airbnb.design/the-way-we-build/) [articles](https://airbnb.design/building-a-visual-language/) sur la refonte de leur "Design Language System".
+- Novembre 2016: sortie du livre "Atomic Design", auto-publié par Brad Frost.
+- Octobre 2017: sortie du livre "[Design Systems](https://www.smashingmagazine.com/design-systems-book/)", par Alla Kholmatova, publié par Smashing Books. 
+- En mars 2018, la première [Design Systems Conference](https://dsconference.com/) a lieu à Helsinki. Parmi les conférenciers, des designers de chez IBM, Airbnb...
 
 ### Style Guides
 
@@ -89,6 +89,8 @@ Exemple de Style Guide produit avec KSS: [WordCamp Style Guide](https://lucijanb
 > The generally-accepted definition of a **design system** is that it’s the outer circle—it encompasses pattern libraries, style guides, and any other artefacts. But there’s something more. Just because you have a collection of design patterns doesn’t mean you have a design *system*. A system is a framework. It’s a rulebook. It’s what tells you *how* those patterns work together. - [Jeremy Keith](https://adactio.com/journal/13844), mai 2018
 
 #### Exemples de "Design Systems" publiés par des compagnies:
+
+<div class="cards"></div>
 
 - [The Lightning Design System](https://www.lightningdesignsystem.com/), par Salesforce.
 - [GOV.UK Elements](https://govuk-elements.herokuapp.com/), le Design System du gouvernement britannique. 
