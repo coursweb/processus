@@ -61,12 +61,15 @@ Les préoccupations du web design vers 2010 étaient focalisées sur les princip
 
 Quelques étapes-clé dans cette évolution du discours:
 
+<div class="timeline"></div>
+
 - Fin 2014, Brad Frost [annonce](http://bradfrost.com/blog/post/styleguides-io/) le lancement de [styleguides.io](http://styleguides.io/). Ce site collecte quelques 200 exemples de "style guides" de compagnies publiés sur le web, et héberge le Style Guide Podcast.
 - En 2015, Brad Frost [annonce](http://bradfrost.com/blog/post/atomic-design-book/) son projet de livre "Atomic Design".
 - En mars 2016, la première conférence [Clarity Conf](https://www.clarityconf.com/2016) ("a conference about style guides and design systems") se tient à San Francisco. Parmi les orateurs, Brad Frost, des gens de Salesforce, Dropbox, GitHub, Slack...
 - En avril 2016, les designers d'Airbnb publient [plusieurs](https://airbnb.design/the-way-we-build/) [articles](https://airbnb.design/building-a-visual-language/) sur la refonte de leur "Design Language System".
 - Novembre 2016: sortie du livre "Atomic Design", auto-publié par Brad Frost.
-- Octobre 2017: sortie du livre "[Design Systems](https://www.smashingmagazine.com/design-systems-book/)", par Alla Kholmatova, publié par Smashing Books. 
+- Octobre 2017: sortie du livre "[Design Systems](https://www.smashingmagazine.com/design-systems-book/)", par Alla Kholmatova, publié par Smashing Books.
+- Début 2018, Figma lance une série de "design system meetups" dans six villes (Lagos, Toronto, Bangalore, Amsterdam, New York, Los Angeles). 
 - En mars 2018, la première [Design Systems Conference](https://dsconference.com/) a lieu à Helsinki. Parmi les conférenciers, des designers de chez IBM, Airbnb...
 
 ### Style Guides
@@ -104,6 +107,7 @@ Articles et conférences qui décrivent ces systèmes:
 - *[The Way We Build](https://airbnb.design/the-way-we-build/)*, par Alex Schleifer, avril 2016. Sur le développement d'un *Design Language System* chez Airbnb.
 - *[Building a Visual Language](https://airbnb.design/building-a-visual-language/)*, par Karri Saarinen, mai 2016. Suite du précédent.
 - *[Carbon: Designing inside Big Blue](https://medium.com/design-ibm/carbon-designing-inside-big-blue-8577883cfe42)*, par Bethany Sonefeld, mars 2017. Sur le système *Carbon* utilisé chez IBM.
+- *[Scaling Great Design Across A Fortune 10 Company](https://bigmedium.com/projects/unity-design-system-exxonmobil.html)*, par Josh Clark, avril 2017. Sur le développement d'un "enterprise design system" pour ExxonMobil.
 - *[Painting with Code](https://airbnb.design/painting-with-code/)*, par Jon Gold, avril 2017: annonce le lancement par Airbnb de "React-sketchapp", une librairie open-source permettant de générer des composantes Sketch.
 - *[The User Experience of Design Systems](https://runemadsen.com/talks/uxcampcph/)*, par Rune Madsen, conférence donnée à UX Camp Copenhagen, mai 2017.
 - *[Design Systems are for People](https://publication.design.systems/design-systems-are-for-people-a484620b6988)*, par Jina Anne, octobre 2017.
@@ -111,6 +115,7 @@ Articles et conférences qui décrivent ces systèmes:
 
 Outils publiés par des compagnies:
 
+- Pattern Lab - outil créé par Brad Frost (auteur de Atomic Design).
 - [Fractal](https://fractal.build/) - "a tool to help you build and document web component libraries". Outil créé par l'agence Clearleft, basé sur Node.js.
 
 Exemples historiques:
