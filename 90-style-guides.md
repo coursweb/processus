@@ -63,6 +63,7 @@ Quelques étapes-clé dans cette évolution du discours:
 
 <div class="timeline"></div>
 
+- Avril 2014, Susan Robertson publie l'article [*Creating Style Guides*](http://alistapart.com/article/creating-style-guides) sur A List Apart.
 - Fin 2014, Brad Frost [annonce](http://bradfrost.com/blog/post/styleguides-io/) le lancement de [styleguides.io](http://styleguides.io/). Ce site collecte quelques 200 exemples de "style guides" de compagnies publiés sur le web, et héberge le Style Guide Podcast.
 - En 2015, Brad Frost [annonce](http://bradfrost.com/blog/post/atomic-design-book/) son projet de livre "Atomic Design".
 - En mars 2016, la première conférence [Clarity Conf](https://www.clarityconf.com/2016) ("a conference about style guides and design systems") se tient à San Francisco. Parmi les orateurs, Brad Frost, des gens de Salesforce, Dropbox, GitHub, Slack...
@@ -74,9 +75,16 @@ Quelques étapes-clé dans cette évolution du discours:
 
 ### Style Guides
 
-Un utilitaire pour générer des "style guides" CSS pour un site web:
+> Pour moi, un "style guide" est un document de code tenu à jour, qui détaille tous les éléments et modules de code de votre site ou application. – Susan Robertson, Creating Style Guides
 
+Utilitaires pour aider à générer des "style guides" CSS pour un site web:
+
+- [X-rayHTML](https://github.com/filamentgroup/X-rayHTML), par l'agence Filament Group
 - [KSS (Knyle Style Sheets)](http://warpspire.com/kss/)
+- [Hologram](http://trulia.github.io/hologram/)
+- Pattern Lab
+
+Des outils comme KSS analysent le CSS du projet pour générer automatiquement le "style guide".
 
 Exemple de Style Guide produit avec KSS: [WordCamp Style Guide](https://lucijanblagonic.github.io/wceu-2017/styleguide/), guide des styles CSS pour le site de la conférence WordCamp Europe 2017.
 
@@ -112,6 +120,7 @@ Articles et conférences qui décrivent ces systèmes:
 - *[The User Experience of Design Systems](https://runemadsen.com/talks/uxcampcph/)*, par Rune Madsen, conférence donnée à UX Camp Copenhagen, mai 2017.
 - *[Design Systems are for People](https://publication.design.systems/design-systems-are-for-people-a484620b6988)*, par Jina Anne, octobre 2017.
 - *[Building the GOV.UK Design System](https://gds.blog.gov.uk/2017/10/30/building-the-gov-uk-design-system/)*, par Alice Noakes et Tim Paul, octobre 2017. Sur la création d'un système de design pour le gouvernement britannique.
+- [Design Systems at Gusto](https://robinrendle.com/notes/design-systems-at-gusto/), par Robin Rendle. Décrit les erreurs fréquentes dans la mise en place d'un système de design, et quatre règles pour les éviter.
 
 Outils publiés par des compagnies:
 
