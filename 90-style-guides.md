@@ -10,9 +10,11 @@ permalink: /processus/style-guides/
 
 ### Style Tiles
 
-http://styletil.es/
-
 > [Style tiles are] a catalyst for discussions around the preferences and goals of the client." – Samantha Warren
+
+[http://styletil.es/](http://styletil.es/)
+
+![Style Tiles, le site de Samantha Warren](/cours-processus/img/styletiles-01.jpg)
 
 Ethan Marcotte refers to static comps during the responsive design process as a “catalog of assumptions” 
 
@@ -65,9 +67,15 @@ Quelques étapes-clé dans cette évolution du discours:
 
 - Avril 2014, Susan Robertson publie l'article [*Creating Style Guides*](http://alistapart.com/article/creating-style-guides) sur A List Apart.
 - Fin 2014, Brad Frost [annonce](http://bradfrost.com/blog/post/styleguides-io/) le lancement de [styleguides.io](http://styleguides.io/). Ce site collecte quelques 200 exemples de "style guides" de compagnies publiés sur le web, et héberge le Style Guide Podcast.
+
+![Le site styleguides.io](/cours-processus/img/style-guides-website.jpg)
+
 - En 2015, Brad Frost [annonce](http://bradfrost.com/blog/post/atomic-design-book/) son projet de livre "Atomic Design".
 - En mars 2016, la première conférence [Clarity Conf](https://www.clarityconf.com/2016) ("a conference about style guides and design systems") se tient à San Francisco. Parmi les orateurs, Brad Frost, des gens de Salesforce, Dropbox, GitHub, Slack...
-- En avril 2016, les designers d'Airbnb publient [plusieurs](https://airbnb.design/the-way-we-build/) [articles](https://airbnb.design/building-a-visual-language/) sur la refonte de leur "Design Language System".
+- En avril 2016, les designers d'Airbnb publient [plusieurs](https://airbnb.design/the-way-we-build/) [articles](https://airbnb.design/building-a-visual-language/) sur la refonte de leur "Design Language System".!
+
+- [Articles de Airbnb](/cours-processus/img/airbnb/airbnb-design-blog.jpg)
+
 - Novembre 2016: sortie du livre "Atomic Design", auto-publié par Brad Frost.
 - Octobre 2017: sortie du livre "[Design Systems](https://www.smashingmagazine.com/design-systems-book/)", par Alla Kholmatova, publié par Smashing Books.
 - Début 2018, Figma lance une série de "design system meetups" dans six villes (Lagos, Toronto, Bangalore, Amsterdam, New York, Los Angeles). 

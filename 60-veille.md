@@ -6,7 +6,11 @@ permalink: /processus/veille/
 
 # La veille
 
-Techniques de "veille", càd d'apprentissage contenu et de tri d'information:
+Techniques de "veille", càd d'apprentissage contenu et de tri d'information.
+
+Dans son article *Un lien par jour : méthode de veille* (2016), Antoine Fauchié expose sa méthodologie de veille:
+
+
 
 https://www.quaternum.net//2016/12/14/un-lien-par-jour/
 
