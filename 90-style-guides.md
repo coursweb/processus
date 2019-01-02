@@ -74,7 +74,7 @@ Quelques étapes-clé dans cette évolution du discours:
 - En mars 2016, la première conférence [Clarity Conf](https://www.clarityconf.com/2016) ("a conference about style guides and design systems") se tient à San Francisco. Parmi les orateurs, Brad Frost, des gens de Salesforce, Dropbox, GitHub, Slack...
 - En avril 2016, les designers d'Airbnb publient [plusieurs](https://airbnb.design/the-way-we-build/) [articles](https://airbnb.design/building-a-visual-language/) sur la refonte de leur "Design Language System".!
 
-- [Articles de Airbnb](/cours-processus/img/airbnb/airbnb-design-blog.jpg)
+[Articles de Airbnb](/cours-processus/img/airbnb/airbnb-design-blog.jpg)
 
 - Novembre 2016: sortie du livre "Atomic Design", auto-publié par Brad Frost.
 - Octobre 2017: sortie du livre "[Design Systems](https://www.smashingmagazine.com/design-systems-book/)", par Alla Kholmatova, publié par Smashing Books.
@@ -90,7 +90,7 @@ Utilitaires pour aider à générer des "style guides" CSS pour un site web:
 - [X-rayHTML](https://github.com/filamentgroup/X-rayHTML), par l'agence Filament Group
 - [KSS (Knyle Style Sheets)](http://warpspire.com/kss/)
 - [Hologram](http://trulia.github.io/hologram/)
-- Pattern Lab
+- [Pattern Lab](https://patternlab.io/), par Brad Frost
 
 Des outils comme KSS analysent le CSS du projet pour générer automatiquement le "style guide".
 
@@ -112,7 +112,7 @@ Exemple de Style Guide produit avec KSS: [WordCamp Style Guide](https://lucijanb
 <div class="cards"></div>
 
 - [The Lightning Design System](https://www.lightningdesignsystem.com/), par Salesforce.
-- [GOV.UK Elements](https://govuk-elements.herokuapp.com/), le Design System du gouvernement britannique. 
+- [GOV.UK Elements](https://design-system.service.gov.uk), le Design System du gouvernement britannique. 
 - [Primer CSS](http://primercss.io/), "the design system that powers GitHub".
 - [IBM Design Language](https://www.ibm.com/design/language/)
 - IBM: [Carbon Design System](http://carbondesignsystem.com/), "the design system for IBM Cloud products".
@@ -132,7 +132,7 @@ Articles et conférences qui décrivent ces systèmes:
 
 Outils publiés par des compagnies:
 
-- Pattern Lab - outil créé par Brad Frost (auteur de Atomic Design).
+- [Pattern Lab](https://patternlab.io/) - outil créé par Brad Frost (auteur de Atomic Design).
 - [Fractal](https://fractal.build/) - "a tool to help you build and document web component libraries". Outil créé par l'agence Clearleft, basé sur Node.js.
 
 Exemples historiques:
