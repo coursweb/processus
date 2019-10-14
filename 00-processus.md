@@ -4,7 +4,7 @@ title: Processus
 permalink: /processus/
 ---
 
-> Avertissement: ce chapitre est en chantier!
+> My design process is: me thinking for days about what I'm gonna do and finally doing it in 13 minutes and 42 seconds between two bathroom breaks. – [@syswarren](https://twitter.com/syswarren/status/1179542265426919424), octobre 2019
 
 Ce chapitre apporte quelques informations sur les processus de développement web.
 
