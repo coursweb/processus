@@ -4,6 +4,14 @@ title: Ressources
 permalink: /processus/ressources/
 ---
 
+Ressources sur les processus de travail:
+
+## Les workflows des projets web
+
+Romy sur les Workflows:
+
+[zoning-mockup-maquette-web](http://romy.tetue.net/zoning-mockup-maquette-web)
+
 
 
 ## Hygiène de travail
