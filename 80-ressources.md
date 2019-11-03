@@ -10,7 +10,7 @@ Ressources sur les processus de travail:
 
 Romy sur les Workflows:
 
-[zoning-mockup-maquette-web](http://romy.tetue.net/zoning-mockup-maquette-web)
+[zoning-mockup-maquette-web](http://romy.tetue.net/zoning-mockup-maquette-web), par Romy Duhem-Verdière, 2013.
 
 
 
