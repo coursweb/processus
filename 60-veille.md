@@ -12,7 +12,7 @@ Dans son article *Un lien par jour : méthode de veille* (2016), Antoine Fauchi�
 
 
 
-https://www.quaternum.net//2016/12/14/un-lien-par-jour/
+https://www.quaternum.net/2016/12/14/un-lien-par-jour/
 
 *Un lien par jour : méthode de veille*
 
