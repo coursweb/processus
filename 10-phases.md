@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Phases
-permalink: /processus/phases/
 ---
 
 # Les phases d'un projet

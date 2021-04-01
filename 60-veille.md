@@ -1,7 +1,6 @@
 ---
 layout: page
 title: La veille
-permalink: /processus/veille/
 ---
 
 # La veille

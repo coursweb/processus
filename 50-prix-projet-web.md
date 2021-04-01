@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Prix et devis
-permalink: /processus/prix/
 ---
 
 Quelques ressources sur les manières de fixer le prix d'un projet web.

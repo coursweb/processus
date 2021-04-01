@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Ressources
-permalink: /processus/ressources/
 ---
 
 Ressources sur les processus de travail:

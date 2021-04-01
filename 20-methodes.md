@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Méthodes
-permalink: /processus/methodes/
 ---
 
 ## Méthodes

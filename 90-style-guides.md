@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Style Guides
-permalink: /processus/style-guides/
 ---
 
 ## Outils:
