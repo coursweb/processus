@@ -14,7 +14,9 @@ Nicolas Richer: *À quel prix doit-on vendre un site WordPress ?*
 - [Slides](http://fr.slideshare.net/nicolasricher/prix-wordpress)
 - [Un article qui approfondit le sujet](https://nicolasricher.fr/blog/prix-site-wordpress/)
 
-**Andy Clarke:**
+### Conseils d'Andy Clarke
+
+<div class="cards"></div>
 
 - "Contract Killer : The popular open-source contract for web designers and developers by Stuff & Nonsense" - un contrat modèle pour webdesigner:
 [https://gist.github.com/malarkey/4031110](https://gist.github.com/malarkey/4031110)
@@ -24,7 +26,9 @@ Nicolas Richer: *À quel prix doit-on vendre un site WordPress ?*
 - Son podcast "Unfinished Business", avec Anna Debenham:
 [http://www.unfinished.bz/1](http://www.unfinished.bz/1) - Les quatre premiers épisodes contiennent un grand nombre d'excellents conseils sur des aspects financiers du travail de webdesigner indépendant.
 
-Daniel Mall: *Pricing Design*
+### Conseils de Daniel Mall, auteur de *Pricing Design*
+
+<div class="cards"></div>
 
 - Un article: *[Pricing](http://danielmall.com/articles/pricing/)*, avril 2015
 - Le livre: [http://abookapart.com/products/pricing-design](http://abookapart.com/products/pricing-design)
