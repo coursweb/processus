@@ -23,21 +23,21 @@ Nicolas Richer: *À quel prix doit-on vendre un site WordPress ?*
 
 <div class="cards"></div>
 
-- "[Contract Killer](https://gist.github.com/malarkey/4031110) : The popular open-source contract for web designers and developers by Stuff & Nonsense" - un contrat modèle pour webdesigner.
-- Un article: *[Contract Killer](https://24ways.org/2008/contract-killer/)* (2008), qui passe en revue son contrat modèle.
-- Un article: *[Monkey Business](https://24ways.org/2012/monkey-business/)* (2012), sur la manière de présenter un devis.
-- Un article: *[The Command Position Principle](https://24ways.org/2013/the-command-position-principle/)*, 2013 - sur l'art de la négociation
-- Son podcast "[Unfinished Business](http://www.unfinished.bz/1)", avec Anna Debenham. Les quatre premiers épisodes contiennent un grand nombre d'excellents conseils sur des aspects financiers du travail de webdesigner indépendant.
+- *[Contract Killer](https://gist.github.com/malarkey/4031110)* "The popular open-source contract for web designers and developers by Stuff & Nonsense" - un contrat modèle pour webdesigner.
+- *[Contract Killer](https://24ways.org/2008/contract-killer/)* (2008), un article qui passe en revue son contrat modèle.
+- *[Monkey Business](https://24ways.org/2012/monkey-business/)* (2012), un article sur la manière de présenter un devis.
+- *[The Command Position Principle](https://24ways.org/2013/the-command-position-principle/)* (2013), un article sur l'art de la négociation
+- *[Unfinished Business](http://www.unfinished.bz/1)*, son podcast avec Anna Debenham. Les quatre premiers épisodes contiennent un grand nombre d'excellents conseils sur des aspects financiers du travail de webdesigner indépendant.
 
 ### Conseils de Daniel Mall, auteur de *Pricing Design*
 
 <div class="cards"></div>
 
-- Un article: *[Pricing](http://danielmall.com/articles/pricing/)*, avril 2015
-- Le livre: [Pricing Design](http://abookapart.com/products/pricing-design)
-- Son [questionnaire pour client](https://gist.github.com/danielmall/87e4a93fa83f09e4ed18)
+- *[Pricing](http://danielmall.com/articles/pricing/)* (2015), un article sur l'art de définir son prix.
+- *[Pricing Design](http://abookapart.com/products/pricing-design)* (2016), un livre publié par A Book Apart.
+- [Son questionnaire pour client](https://gist.github.com/danielmall/87e4a93fa83f09e4ed18)
 
-Autres ressources:
+### Autres ressources:
 
 - [AIGA Standard Form Agreement for Design Services](http://www.aiga.org/standard-agreement)
 - [Rocket Lawyer Graphic Design Contract](https://www.rocketlawyer.com/document/graphic-design-contract.rl#/)
