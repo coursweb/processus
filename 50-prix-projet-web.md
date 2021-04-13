@@ -35,7 +35,7 @@ Nicolas Richer: *À quel prix doit-on vendre un site WordPress ?*
 
 - *[Pricing](http://danielmall.com/articles/pricing/)* (2015), un article sur l'art de définir son prix.
 - *[Pricing Design](http://abookapart.com/products/pricing-design)* (2016), un livre publié par A Book Apart.
-- [Son questionnaire pour client](https://gist.github.com/danielmall/87e4a93fa83f09e4ed18)
+- [Son questionnaire pour client](https://gist.github.com/danmall/87e4a93fa83f09e4ed18)
 
 ### Autres ressources:
 
