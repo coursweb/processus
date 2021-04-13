@@ -23,22 +23,19 @@ Nicolas Richer: *À quel prix doit-on vendre un site WordPress ?*
 
 <div class="cards"></div>
 
-- "Contract Killer : The popular open-source contract for web designers and developers by Stuff & Nonsense" - un contrat modèle pour webdesigner:
-[https://gist.github.com/malarkey/4031110](https://gist.github.com/malarkey/4031110)
+- "[Contract Killer](https://gist.github.com/malarkey/4031110) : The popular open-source contract for web designers and developers by Stuff & Nonsense" - un contrat modèle pour webdesigner.
 - Un article: *[Contract Killer](https://24ways.org/2008/contract-killer/)* (2008), qui passe en revue son contrat modèle.
 - Un article: *[Monkey Business](https://24ways.org/2012/monkey-business/)* (2012), sur la manière de présenter un devis.
 - Un article: *[The Command Position Principle](https://24ways.org/2013/the-command-position-principle/)*, 2013 - sur l'art de la négociation
-- Son podcast "Unfinished Business", avec Anna Debenham:
-[http://www.unfinished.bz/1](http://www.unfinished.bz/1) - Les quatre premiers épisodes contiennent un grand nombre d'excellents conseils sur des aspects financiers du travail de webdesigner indépendant.
+- Son podcast "[Unfinished Business](http://www.unfinished.bz/1)", avec Anna Debenham. Les quatre premiers épisodes contiennent un grand nombre d'excellents conseils sur des aspects financiers du travail de webdesigner indépendant.
 
 ### Conseils de Daniel Mall, auteur de *Pricing Design*
 
 <div class="cards"></div>
 
 - Un article: *[Pricing](http://danielmall.com/articles/pricing/)*, avril 2015
-- Le livre: [http://abookapart.com/products/pricing-design](http://abookapart.com/products/pricing-design)
-- Son questionnaire pour client: 
-[https://gist.github.com/danielmall/87e4a93fa83f09e4ed18](https://gist.github.com/danielmall/87e4a93fa83f09e4ed18)
+- Le livre: [Pricing Design](http://abookapart.com/products/pricing-design)
+- Son [questionnaire pour client](https://gist.github.com/danielmall/87e4a93fa83f09e4ed18)
 
 Autres ressources:
 
