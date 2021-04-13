@@ -5,6 +5,11 @@ title: Prix et devis
 
 Quelques ressources sur les manières de fixer le prix d'un projet web.
 
+Sur le Tarif Journalier Mojen (TJM):
+
+- *[Parce que vous le valez bien](https://libelilou.github.io/2017/05/29/sudweb.html)*, Hélène Schapira (2017).
+- *[Freelances : bien fixer, annoncer et négocier vos tarifs (guide complet)](https://www.miximum.fr/blog/developpeur-web-freelance-tjm/)*, par Thibault Jouannic (2020).
+
 Thierry Pigot: *Combien coûte un site WordPress?*  
 - [Vidéo (WordCamp Paris 2014)](http://wordpress.tv/2014/03/24/thierry-pigot-combien-coute-un-site-wordpress/)
 - [Slides](http://fr.slideshare.net/thierrypigot/wordcamp-paris-2014) 
