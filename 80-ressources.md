@@ -5,7 +5,7 @@ title: Ressources
 
 Ressources sur les processus de travail:
 
-## Collection "Desgin Process", A Book Apart
+## Collection "Desgin Process", A Book Apart
 
 [Cette collection](https://abookapart.com/collections/design-process) comporte les titres suivants:
 
