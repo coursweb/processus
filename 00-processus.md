@@ -8,10 +8,10 @@ permalink: index.html
 
 > "It’s important to build a practice. Without a practice, you’re just *doing* design — a short-term activity. But when you *practice* design, you’re focusing on long-term sustainable success." - [Verne Ho, 2013](https://ux.shopify.com/a-framework-for-building-a-design-practice-c0a3df667344)
 
-Dans son livre "101 Things I Learned in Architecture School" (qui est aussi considér comme [un des meilleurs livres de UX design](https://adactio.com/articles/16334)), Matthew Frederik précise ce qu'il comprend par un design "orienté processus". Cela signifie:
+Dans son livre "101 Things I Learned in Architecture School" (qui est considéré comme [un des meilleurs livres de UX design](https://adactio.com/articles/16334)), Matthew Frederik précise ce qu'il comprend par un design "orienté processus". Cela signifie:
 
-- S'efforcer de comprendre un problème, avant de courir après les solutions.
-- Ne pas forcer des solutions venant de problèmes précédents sur un nouveau problème.
+- S'efforcer de comprendre un problème, avant de commencer à chercher des solutions.
+- Ne pas appliquer de force des solutions venant de problèmes antérieurs sur un nouveau problème.
 - Ne pas tomber amoureux de vos idées trop rapidement.
 - Apprendre à vivre avec l'anxiété de ne pas savoir ce qu'il faut faire.
 - Passer de façon fluide de l'échelle du concept à l'échelle du détail, pour voir comment les deux s'influences mutuellement.
