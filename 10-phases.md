@@ -79,7 +79,7 @@ Matt Meazey : [The web design process in 7 simple steps](https://webflow.com/blo
 
 ***
 
-http://www.idesignstudios.com/blog/web-design/phases-web-design-development-process/
+[http://www.idesignstudios.com/blog/web-design/phases-web-design-development-process/](http://www.idesignstudios.com/blog/web-design/phases-web-design-development-process/)
 
 1. Information Gathering
 2. Planning
@@ -90,7 +90,7 @@ http://www.idesignstudios.com/blog/web-design/phases-web-design-development-proc
 
 ***
 
-https://www.macronimous.com/resources/web-development-life-cycle.asp
+[https://www.macronimous.com/resources/web-development-life-cycle.asp](https://www.macronimous.com/resources/web-development-life-cycle.asp)
 
 1. Review, Assessment and Analysis
 2. Specification Building
@@ -103,7 +103,7 @@ https://www.macronimous.com/resources/web-development-life-cycle.asp
 
 ***
 
-http://www.printmag.com/featured/phases-of-the-web-design-process/
+[http://www.printmag.com/featured/phases-of-the-web-design-process/](http://www.printmag.com/featured/phases-of-the-web-design-process/)
 
 The following is an excerpt from the first lesson of Dave Holston’s HOW Design University course, Managing a Web Design Project from Start to Finish.
 In this course, Dave Holston teaches students about the key research and planning phases that inform the online design process, and about project management tools and techniques that can create efficiencies for you as a manager.
@@ -121,7 +121,7 @@ The phases of the Web design process include the following steps.
 
 ***
 
-http://www.leemunroe.com/web-design-process/
+[http://www.leemunroe.com/web-design-process/](http://www.leemunroe.com/web-design-process/)
 
 1. Planning
 2. Research & Ideas
@@ -133,7 +133,7 @@ http://www.leemunroe.com/web-design-process/
 
 ***
 
-http://webstyleguide.com/wsg3/1-process/7-development-process.html
+[http://webstyleguide.com/wsg3/1-process/7-development-process.html](http://webstyleguide.com/wsg3/1-process/7-development-process.html)
 
 Every significant web project poses unique challenges, but the overall process of developing a complex web site generally follows six major stages that you should think through before crafting your final project planning and proposal documents:
 
@@ -146,7 +146,7 @@ Every significant web project poses unique challenges, but the overall process o
 
 ***
 
-Phase de recherche:
+## Phase de recherche
 
 *[La phase de recherche en web design](http://www.editions-eyrolles.com/Livre/9782212141467/la-phase-de-recherche-en-web-design)*, par Erika Hall (en anglais: *[Just Enough Research](https://abookapart.com/products/just-enough-research)*, 2013, collection A Book Apart). Ce livre est ciblé sur la récolte d'informations et les tests utilisateur.
 
