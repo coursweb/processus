@@ -18,9 +18,9 @@ Vous pouvez donc l'utiliser librement, y compris dans un contexte professionnel 
 
 ## Contribuer
 
-Les corrections et améliorations sont les bienvenues, et se font par l'intermédiaire du système [Git](http://cours-web.ch/git/). Les chapitres (HTML, CSS, WordPress...) sont des "repositories", que vous pouvez clôner, forker, compléter et proposer à la publication.
+Les corrections et améliorations sont les bienvenues, et se font par l'intermédiaire du système [Git](https://cours-web.ch/git/). Les chapitres (HTML, CSS, WordPress...) sont des "repositories", que vous pouvez clôner, forker, compléter et proposer à la publication.
 
-Les contenus sont rédigés en syntaxe [Markdown](http://cours-web.ch/divers/markdown/).
+Les contenus sont rédigés en syntaxe [Markdown](https://cours-web.ch/markdown/).
 
 ## Les auteurs
 
