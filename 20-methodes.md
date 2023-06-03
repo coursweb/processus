@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Méthodes
+permalink: methodes.html
 ---
 
 ## Méthodes

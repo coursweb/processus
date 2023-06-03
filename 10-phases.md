@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Phases
+permalink: phases.html
 ---
 
 # Les phases d'un projet
