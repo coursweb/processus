@@ -14,7 +14,7 @@ Dans son livre "101 Things I Learned in Architecture School" (qui est considér�
 - Ne pas appliquer de force des solutions venant de problèmes antérieurs sur un nouveau problème.
 - Ne pas tomber amoureux de vos idées trop rapidement.
 - Apprendre à vivre avec l'anxiété de ne pas savoir ce qu'il faut faire.
-- Passer de façon fluide de l'échelle du concept à l'échelle du détail, pour voir comment les deux s'influences mutuellement.
+- Passer de façon fluide de l'échelle du concept à l'échelle du détail, pour voir comment les deux s'influencent mutuellement.
 - Toujours se demander "et si...", même si vous êtes satisfait de votre solution.
 
 ---
@@ -24,12 +24,12 @@ Ce chapitre apporte quelques informations sur les processus de développement we
 Voici quelques points qui seront couverts:
 
 - Les phases d'un projet de conception web
-- Recherche, documentation, brainstorming
-- Recherche UX, personas, story cards
-- Wireframes, architecture de l'information
-- Prototypage, maquette visuelle
-- Développement
-- Maintenance
+  - Recherche, documentation, brainstorming
+  - Recherche UX, personas, story cards
+  - Wireframes, architecture de l'information
+  - Prototypage, maquette visuelle
+  - Développement
+  - Maintenance
 - Méthodes de travail "agiles"
 - Tarification, estimer un projet
 - Retrospectives
