@@ -65,3 +65,25 @@ La phase d'idéation et d'exploration n'est pas toujours reflétée dans les éc
 - prototype
 - cahier de spécifications fonctionnelles
 - guide de style / charte graphique
+
+## Autres ressources
+
+Le livre *Communicating Design* de Dan Brown détaille plusieurs documents:
+
+Diagrammes:
+
+- Personas (p.34)
+- Concept Models (p.64)
+- Site Maps (p.94)
+- Flowcharts (p.124)
+- Wireframes (p.166)
+
+Livrables de design:
+
+- Design briefs (p.232)
+- Competitive reviews
+- Usability Plans
+- Usability Reports
+
+Dans son livre, Dan Brown décrit sa méthode: il ne produit qu'un seul livrable, "Design Specification", qui évolue tout au long du projet. Ce document contient tous les différents livrables.
+
