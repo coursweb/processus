@@ -25,4 +25,4 @@ Romy sur les Workflows:
 
 ## Hygiène de travail
 
-- [Practical Advice for the Confused Designer](http://pierrickcalvez.com/journal/practical-advice-for-the-confused-designer), par Pierrick Calvez
+- [Practical Advice for the Confused Designer](http://pierrickcalvez.com/journal/practical-advice-for-the-confused-designer), par Pierrick Calvez.

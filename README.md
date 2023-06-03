@@ -8,13 +8,8 @@ En ligne sous: [https://cours-web.ch/](https://cours-web.ch/)
 
 Ceci est un support de cours, visant à accompagner l'apprentissage de la programmation web. Les matières traitées sont: le langage HTML, les styles CSS, la conception de sites avec WordPress.
 
-Ce support de cours accompagne entre autres les cours donnés à l'Eracom (Lausanne) et à l'Ecole d'Art Appliqués de La Chaux-de-Fonds.
+Ce support de cours accompagne entre autres les cours donnés à l'Eracom (Lausanne).
 
-## Licence
-
-Ce support de cours est mis à disposition sous les termes de la licence **Creative Commons Attribution 4.0 International** ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)).
-
-Vous pouvez donc l'utiliser librement, y compris dans un contexte professionnel et commercial, à condition de respecter la licence.
 
 ## Contribuer
 
