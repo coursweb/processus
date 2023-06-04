@@ -77,7 +77,7 @@ La phase d'idéation et d'exploration n'est pas toujours reflétée dans les éc
 
 Le livre *Communicating Design* de Dan Brown détaille plusieurs documents:
 
-Diagrammes:
+**Diagrammes:**
 
 - Personas (p.34)
 - Concept Models (p.64)
@@ -85,12 +85,12 @@ Diagrammes:
 - Flowcharts (p.124)
 - Wireframes (p.166)
 
-Livrables de design:
+**Livrables de design:**
 
 - Design briefs (p.232)
 - Competitive reviews (p.254)
 - Usability Plans
 - Usability Reports
 
-Dans son livre, Dan Brown décrit sa méthode: il ne produit qu'un seul livrable, "Design Specification", qui évolue tout au long du projet. Ce document contient tous les différents livrables.
+Dans son livre, Dan Brown décrit sa méthode: il ne produit qu'un seul livrable, "*Design Specification*", qui évolue tout au long du projet. Ce document contient tous les différents livrables (Personas, Wireframes, etc).
 
