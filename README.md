@@ -19,9 +19,4 @@ Les contenus sont rédigés en syntaxe [Markdown](https://cours-web.ch/markdown/
 
 ## Les auteurs
 
-Les auteurs et contributeurs sont:
-
-* Manuel Schmalstieg – artiste, développeur et enseignant.
-* ...
-
 Voir la liste actualisée sous [https://github.com/coursweb/cours-processus/graphs/contributors](https://github.com/coursweb/cours-processus/graphs/contributors)
