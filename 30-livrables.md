@@ -21,8 +21,15 @@ Contenu et objetifs du brief:
 - Formaliser le contexte et le périmètre du projet: présentation du client, du contexte, des objectifs.
 - Fixer les enjeux, les objectifs et les priorités du projet (notamment calendrier).
 - Quelle(s) problématique(s) le projet doit-il résoudre?
-- À qui va s'adresser le projet?
+- Le public cible (*Target audiences*). À qui va s'adresser le projet?
 
+![Structure de brief selon Dan Brown](img/dan-brown-structure-design-brief.png)
+
+Selon Peter Phillips, auteur du livre *Creating the Perfect Design Brief* (2004), le brief devrait être écrit par au moins deux personnes: l'une représentant le côté "business", l'autre représentant le design. Selon cet auteur, les responsables du design brief devraient commencer par se poser les questions suivantes:
+
+- What Are the Prime Objectives of the Project?
+- Why Is This Project Necessary, and Why Is It Necessary Right Now?
+- What Business Outcomes Are Expected from This Project?
 
 ## Autres livrables
 
@@ -81,7 +88,7 @@ Diagrammes:
 Livrables de design:
 
 - Design briefs (p.232)
-- Competitive reviews
+- Competitive reviews (p.254)
 - Usability Plans
 - Usability Reports
 
