@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ressources
+permalink: ressources.html
 ---
 
 Ressources sur les processus de travail:

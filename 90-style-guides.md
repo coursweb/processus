@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Style Guides
+permalink: style-guides.html
 ---
 
 ## Outils:

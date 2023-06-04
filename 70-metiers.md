@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Métiers
+permalink: metiers.html
 ---
 
 # Corps de métier du web

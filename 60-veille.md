@@ -1,6 +1,7 @@
 ---
 layout: page
 title: La veille
+permalink: veille.html
 ---
 
 # La veille
